@@ -1,6 +1,3 @@
-Here’s a README template customized for your project, TEXTEX:
-
----
 
 # TEXTEX
 
