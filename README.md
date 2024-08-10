@@ -1,7 +1,7 @@
 
 # TEXTEX
 
-[![Deployment Status](https://img.shields.io/badge/Deployed%20on-%20your-platform-blue.svg)](your-deployment-link)
+[![Deployment Status](https://img.shields.io/badge/Deployed%20on-%20your-platform-blue.svg)](https://master--starlit-lokum-e96e21.netlify.app/)
 
 ## Description
 
